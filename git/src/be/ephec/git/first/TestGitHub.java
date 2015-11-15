@@ -1,4 +1,4 @@
-package be.ephec.github.first;
+package be.ephec.git.first;
 
 public class TestGitHub {
 
